@@ -47,7 +47,7 @@ camera open, object tracking, data processing, data augmentation 를 수행할 �
 num| 사이트
 --------- | ---------
 1 | http://www.dizziness-and-balance.com/disorders/bppv/bppv-korean.htm
-2 | file:///C:/Users/qute7/Desktop/안진검사%20논문%20.pdf
-3 | file:///C:/Users/qute7/Desktop/7J_A%20Survey.pdf
+2 | http://www.ijircce.com/upload/2014/february/7J_A%20Survey.pdf
+3 | http://www.ijsrp.org/research-paper-0513/ijsrp-p17106.pdf
 4 | https://dgkim5360.tistory.com
 5 | https://eehoeskrap.tistory.com/91
