@@ -16,7 +16,7 @@
 
 * **주제 선정** <br>
 
-이유:  환자와 의사에게 더 편리한 안진검사를 제공하고자 한다
+  이유:  환자와 의사에게 더 편리한 안진검사를 제공하고자 한다
 
 * **개발 환경 구축을 위한 프로그램 설치** <br>
 : open cv, dlib, cmake, numpy 등
@@ -34,7 +34,7 @@ camera open, object tracking, data processing, data augmentation 를 수행할 �
 <h2>전체 계획대비 진행상황</h2> 
 
  **<진행 중 및 앞으로의 계획>**
- *  <br>
+ *  <br> 
  *  <br>
  *  <br>
 
