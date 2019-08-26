@@ -27,8 +27,8 @@ camera open, object tracking, data processing, data augmentation 를 수행할 �
 * **데이터셋** <br>
 https://drive.google.com/drive/u/2/folders/1OLAWywU4vC5e2MFPSaNRTVhl--alRwkp <br>
 
-(1) 동영상 데이터 셋 <br>
-(2) 좌표값 데이터 셋 <br>
+  (1) 동영상 데이터 셋 <br>
+  (2) 좌표값 데이터 셋 <br>
 
 <h2>전체 계획대비 진행상황</h2> 
 
