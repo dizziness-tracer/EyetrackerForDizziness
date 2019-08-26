@@ -16,7 +16,7 @@
 
 * **주제 선정** <br>
 
-  -> 이유 :  환자와 의사에게 더 편리한 안진검사를 제공하고자 한다
+이유:  환자와 의사에게 더 편리한 안진검사를 제공하고자 한다
 
 * **개발 환경 구축을 위한 프로그램 설치** <br>
 : open cv, dlib, cmake, numpy 등
@@ -28,8 +28,8 @@ camera open, object tracking, data processing, data augmentation 를 수행할 �
 
 <h3> https://drive.google.com/drive/u/2/folders/1OLAWywU4vC5e2MFPSaNRTVhl--alRwkp </h3>
 
-(1) 동영상 데이터 셋
-(2) 좌표값 데이터 셋
+(1) 동영상 데이터 셋 <br>
+(2) 좌표값 데이터 셋 <br>
 
 <h2>전체 계획대비 진행상황</h2> 
 
